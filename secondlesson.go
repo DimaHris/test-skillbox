@@ -23,5 +23,5 @@ func main() {
 	}
 
 	arrReverse(num)
-
+	fmt.Println("Конец программы")
 }
